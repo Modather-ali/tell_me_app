@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "944101910488",
+    "project_id": "hadithni",
+    "storage_bucket": "hadithni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944101910488:android:2196050584d3cbc732b4ad",
+        "android_client_info": {
+          "package_name": "com.example.hadithni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944101910488-bja3br36neo4ompj2if74sqgo7aovbmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hadithni",
+            "certificate_hash": "56bf5d49c7380ecf779744604cf8d922347697f9"
+          }
+        },
+        {
+          "client_id": "944101910488-q6379dr7p866fius02roqg0eond643rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTyrZrjfRhHSIiHs2tD_h79xRz6yMLq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944101910488-q6379dr7p866fius02roqg0eond643rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
